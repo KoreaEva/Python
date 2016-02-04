@@ -13,3 +13,10 @@ PTVS(Python Tools for Visual Studio)는 Visual Studio에서 Python을 지원하�
  Visual Studio Code에는 PTVS를 설치할 필요는 없다.
 
 [Visual Studio Community and PTVS 설치](https://github.com/KoreaEva/Python/blob/master/1.Python%20development%20tool%20setting/Visual%20Studio%20Community%202015%20and%20PTVS.md)
+
+## Python 3.X
+Python 개발을 위해서는 반드시 설치해야 한다. 
+여기서 Python은 3.X 버전을 설치한다. 2.X 버전에 비해서 API의 정기가 좀 더 직관적으로 되어 있다. 
+Python의 공식 홈페이지는 http://python.org 이다. 
+
+[Python 설치](https://www.python.org/downloads/)

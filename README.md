@@ -4,6 +4,9 @@ Python 개발에 필요한 자료를 수집하고 관련된 강좌를 제작하�
 ## Python 개발 환경 구성
 Python 개발은 거의 모든 개발 도구들이 지원하고 있지만 여기서는 가장 안정적인 Visual Studio 두 가지 버전을 위주로 소개해 드립니다. 
 
+### Python 개발 툴 설치
+[Python 개발 툴 설치](https://github.com/KoreaEva/Python/blob/master/1.Python%20development%20tool%20setting/Readme.md)
+
 ### Visual Studio 2015 Community Edition + PTVS(Python Tools for Visual Studio)
 ### Visual Studio Code
 #### Visual Studio Code 시작하기

@@ -16,4 +16,4 @@ Visual Studio Community 버전에 대한 자세한 소개는 [여기를 눌러�
 PTVS(Python Tools for Visual Studio)는 Visual Studio에서 Python을 지원하게 해주는 도구로 오픈소스로 지원하고 있다. 
  Visual Studio Code에는 PTVS를 설치할 필요는 없다.
 
-[Visual Studio Community and PTVS](https://github.com/KoreaEva/Python/blob/master/1.Python%20development%20tool%20setting/Visual%20Studio%20Community%202015%20and%20PTVS.md)
+[Visual Studio Community and PTVS 설치](https://github.com/KoreaEva/Python/blob/master/1.Python%20development%20tool%20setting/Visual%20Studio%20Community%202015%20and%20PTVS.md)

@@ -1,5 +1,6 @@
 # Python
-Python 개발에 필요한 자료를 수집하고 관련된 강좌를 제작하기 위한 공간입니다. 
+여기에서는 Python 개발에 필요한 강좌와 링크 그리고 툴과 서비스 구축 방법들을 정리한다. 
+Python 개발 툴로는 Visual Studio 시리즈가 사용될 것이며 GitHub와 Azure Web App등의 사용방법을 볼 수 있다. 
 
 ## Python 개발 툴 설치
 Python은 스크립트 언어이기 때문에 메모장 만으로도 쉽게 개발 환경을 구성할 수 있다.

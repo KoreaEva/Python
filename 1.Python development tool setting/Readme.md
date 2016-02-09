@@ -10,8 +10,7 @@ Python을 웹 사이트에서 다운로드 해서 설치한다.
 
 ## Visual Studio Code를 이용한 환경 설정 방법
 Visual Studio Code는 Windows뿐만 아니라 Mac, Linux를 모두 지원하고 Python의 코딩 뿐만 아니라 디버깅까지 지원합니다. 
-오픈 소스로 진행되고 있으며 매우 적은 사이즈의 툴로 비교적 사양이 떨어지는 환경에서도 잘 동작하며 Git를 이용한 형상관리도 지원하기 때문에 매우 유용합니다. Visual Studio Code 공식 사이트에서 OS별 버전을 다운로드 할 수 있습니다. 
-Visual Studio Code는 Windows, Mac, Linux 버전을 모두 제공하고 있습니다. 
+오픈 소스로 진행되고 있으며 매우 적은 사이즈의 툴로 비교적 사양이 떨어지는 환경에서도 잘 동작하며 Git를 이용한 형상관리도 지원하기 때문에 매우 유용합니다. Visual Studio Code 공식 사이트에서 OS별 버전을 다운로드 할 수 있습니다. Visual Studio Code는 Windows, Mac, Linux 버전을 모두 제공하고 있습니다. 만약 Visual Studio Code을 개발툴로 선택한 경우에는 아래에 설명하고 있는 Visual Studio Community, PTVS등은 설치할 필요가 없습니다. 
 
 ### Visual Studio Code 설치
 

@@ -4,4 +4,4 @@ Visual Studio Code는 Windows, Mac, Linux 버전을 모두 제공하고 있습�
 
 https://code.visualstudio.com/
 
-[![Alt text for your video](http://img.youtube.com/vi/eXcO62NW6-k/0.jpg)](https://www.youtube.com/watch?v=eXcO62NW6-k)
+[![Alt text for your video](http://img.youtube.com/vi/807JdTl910Y/0.jpg)](https://www.youtube.com/watch?v=807JdTl910Y)

@@ -3,3 +3,5 @@ Visual Studio Code 공식 사이트에서 OS별 버전을 다운로드 할 수 �
 Visual Studio Code는 Windows, Mac, Linux 버전을 모두 제공하고 있습니다. 
 
 https://code.visualstudio.com/
+
+[![Alt text for your video](http://img.youtube.com/vi/eXcO62NW6-k/0.jpg)](https://www.youtube.com/watch?v=eXcO62NW6-k)

@@ -5,7 +5,11 @@ Python을 웹 사이트에서 다운로드 해서 설치한다.
 버전은 크게 2.X 버전과 3.X 버전으로 나뉘는데 웹쪽 API들은 3.X가 훨씬 깔끔하게 정리되어 있다. 
 여기서는 3.X 버전을 선택해서 설치한다. 
 
-[Python 다운로드](https://www.python.org/downloads/) 
+Python 설치 영상 (아래 이미지를 클릭하면 영상을 볼 수 있습니다.)
+
+[![Python 설치 영상](http://img.youtube.com/vi/2-ebTZbuQBA/0.jpg)](https://www.youtube.com/watch?v=2-ebTZbuQBA)
+
+Python 공식 사이트 (http://python.org)
 
 
 ## Visual Studio Code를 이용한 환경 설정 방법

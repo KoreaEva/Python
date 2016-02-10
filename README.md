@@ -12,7 +12,9 @@ Python을 지원하는 많은 툴이 있지만 여기서는 두 가지 툴을 �
 ## Python 기본 강좌
 
 [Introduction to Programming with Python: (01) Getting Started](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/01)
+
 [Introduction to Programming with Python: (02) Displaying Text](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/02)
+
 [Introduction to Programming with Python: (03) String Variables](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/03)
 [Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
 [Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)

@@ -45,3 +45,12 @@ Python 기본 강좌입니다. MVA(http://mva.microsoft.com) 사이트에 있는
 ### 웹 개발을 위한 환경 구성하기
 #### Azure Web App
 #### Azure Web App과 GitHub 연결하기
+
+### Python과 Django 를 이용한 웹 개발
+
+[1.Django 소개](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=AQdTENEJB_4004300477)
+[2.모델 빌드](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=jCzh5YEJB_6604300477)
+[3.모델 쿼리 및 마이그레이션 관리](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=uw7LHeEJB_5304300477)
+[4.URL 및 라우팅](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=VZKAiqEJB_404300477)
+[5.레이아웃 및 양식](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=2JaKaxEJB_7304300477)
+[6.응용 프로그램 배포](https://mva.microsoft.com/ko/training-courses/python-django--11415?l=J0Ei51EJB_9804300477)

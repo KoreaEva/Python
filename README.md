@@ -43,8 +43,17 @@ Python 기본 강좌입니다. MVA(http://mva.microsoft.com) 사이트에 있는
 
 ## Python Web Programming
 ### 웹 개발을 위한 환경 구성하기
+#### Cloud Service
 #### Azure Web App
-#### Azure Web App과 GitHub 연결하기
+
+Azure Web App에 대한 소개
+
+##### Azure Web App에 Python 응용프로그램 배포하기
+###### GitHub와 연결하기
+###### Git으로 연결하기
+###### FTP로 배포하기
+
+##### MySQL 셋팅하기
 
 ### Python과 Django 를 이용한 웹 개발
 

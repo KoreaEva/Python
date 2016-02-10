@@ -24,6 +24,12 @@ Visual Studio Code 설치 영상 (아래 이미지를 클릭하면 영상을 볼
 
 Visual Studio Code 공식 사이트 (https://code.visualstudio.com)
 
+### Python Extension의 설치
+
+Visual Studio Code는 많은 언어들을 코딩하고 디버깅 할 수 있는 환경을 제공하는데 각각의 언어들을 모두 지원해 줄 수 있게 해주는 것이 바로 Extension 입니다. Extension을 설치할 때 마다 새로운 언어들이 지원되는 방식인데 F1을 누르고 나서 ext ins를 입력해 보면 Extension과 관련된 기능들을 볼 수 있습니다. Python 개발을 위해서는 Python Extension을 설치해야 합니다. 
+ 자세한 내용은 아래 영상을 참조해 보시기 바랍니다. 
+
+[![Python Extension 설치 영상](http://img.youtube.com/vi/w32yGHnt5Eo/0.jpg)](https://www.youtube.com/watch?v=w32yGHnt5Eo)
 
 ## Visual Studio Community 2015 and PTVS
 Visual Studio Community 2015는 가장 강력한 개발 툴중의 하나로 조건만 만족하면 무료로 사용할 수 있습니다.

@@ -20,7 +20,7 @@ Visual Studio Code는 Windows뿐만 아니라 Mac, Linux를 모두 지원하고 
 
 Visual Studio Code 설치 영상 (아래 이미지를 클릭하면 영상을 볼 수 있습니다.)
 
-[![Visual Studio Code 설치 영상](http://img.youtube.com/vi/807JdTl910Y/0.jpg)](https://www.youtube.com/watch?v=807JdTl910Y)
+[![Visual Studio Code 설치 영상](http://img.youtube.com/vi/aVYTrFy5GTI/0.jpg)](https://www.youtube.com/watch?v=aVYTrFy5GTI)
 
 Visual Studio Code 공식 사이트 (https://code.visualstudio.com)
 

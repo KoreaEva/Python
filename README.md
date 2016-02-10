@@ -9,14 +9,22 @@ Python을 지원하는 많은 툴이 있지만 여기서는 두 가지 툴을 �
 
 [Python 개발 툴 설치](https://github.com/KoreaEva/Python/blob/master/1.Python%20development%20tool%20setting/Readme.md)
 
-### Visual Studio 2015 Community Edition + PTVS(Python Tools for Visual Studio)
-### Visual Studio Code
-#### Visual Studio Code 시작하기
-#### Visual Studio Code 코딩하기
-#### Visual Studio Code와 GitHub 연결하기
-#### Visual Studio Code로 Debugging 하기
-
 ## Python 기본 강좌
+
+[Introduction to Programming with Python: (01) Getting Started](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/01)
+[Introduction to Programming with Python: (02) Displaying Text](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/02)
+[Introduction to Programming with Python: (03) String Variables](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/03)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
+[Introduction to Programming with Python: (04) Storing Numbers](https://channel9.msdn.com/Series/Introduction-to-Programming-with-Python/04)
 
 ## Python Web Programming
 ### 웹 개발을 위한 환경 구성하기

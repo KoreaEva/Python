@@ -2,13 +2,17 @@
 
 ## Python 강좌(한국어)
 
-[![응답하라 파이썬 #1 파이썬의 특징과 Visual Studio Code 및 PTVS의 활용](http://img.youtube.com/vi/e5SCdiNHyC0/0.jpg)](https://youtu.be/e5SCdiNHyC0)
+[![응답하라 파이썬 #1 파이썬의 특징과 Visual Studio Code 및 PTVS의 활용](http://img.youtube.com/vi/e5SCdiNHyC0/0.jpg)](https://youtu.be/e5SCdiNHyC0)<br>
+응답하라 파이썬 #1 파이썬의 특징과 Visual Studio Code 및 PTVS의 활용
 
-[![응답하라 파이썬 #2 파이썬 웹프레임워크 Django와 함께하는 라이브 코딩쇼](http://img.youtube.com/vi/57evqma6PwA/0.jpg)](https://youtu.be/57evqma6PwA)
+[![응답하라 파이썬 #2 파이썬 웹프레임워크 Django와 함께하는 라이브 코딩쇼](http://img.youtube.com/vi/57evqma6PwA/0.jpg)](https://youtu.be/57evqma6PwA)<br>
+응답하라 파이썬 #2 파이썬 웹프레임워크 Django와 함께하는 라이브 코딩쇼
 
-[![응답하라 파이썬 #3 Azure WebApp으로 Django 프로젝트 배포하기 ](http://img.youtube.com/vi/slcscdbgGUI/0.jpg)](https://youtu.be/slcscdbgGUI)
+[![응답하라 파이썬 #3 Azure WebApp으로 Django 프로젝트 배포하기](http://img.youtube.com/vi/slcscdbgGUI/0.jpg)](https://youtu.be/slcscdbgGUI)<br>
+응답하라 파이썬 #3 Azure WebApp으로 Django 프로젝트 배포하기
 
-[![Techdays 2015 Python을 Azure에서 사용하는 법](http://img.youtube.com/vi/73p5-u1TEdA/0.jpg)](https://youtu.be/73p5-u1TEdA)
+[![Techdays 2015 Python을 Azure에서 사용하는 법](http://img.youtube.com/vi/73p5-u1TEdA/0.jpg)](https://youtu.be/73p5-u1TEdA)<br>
+Techdays 2015 Python을 Azure에서 사용하는 법
 
 
 ## Python 기본 강좌(영어)

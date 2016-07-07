@@ -11,6 +11,8 @@ Python을 지원하는 많은 툴이 있지만 여기서는 두 가지 툴을 �
 
 ## Python 기본 강좌
 
+[Python 기초 강좌 목록 입니다.](https://github.com/KoreaEva/Python/blob/master/Video.md)
+
 ## Python Web Programming
 ### 웹 개발을 위한 환경 구성하기
 #### Cloud Service

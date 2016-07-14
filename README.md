@@ -18,6 +18,9 @@ Python을 지원하는 많은 툴이 있지만 여기서는 두 가지 툴을 �
 #### Cloud Service
 #### Azure Web App
 
+## Microsoft Cognitive Services 활용
+Microsoft Cognitive Services [https://github.com/KoreaEva/Python/tree/master/Cognitive%20Service](https://github.com/KoreaEva/Python/tree/master/Cognitive%20Service)
+
 Azure Web App에 대한 소개
 
 ##### Azure Web App에 Python 응용프로그램 배포하기

@@ -13,13 +13,14 @@ Python을 지원하는 많은 툴이 있지만 여기서는 두 가지 툴을 �
 
 [Python 기초 강좌 목록 입니다.](https://github.com/KoreaEva/Python/blob/master/Video.md)
 
+## Microsoft Cognitive Services 활용
+Microsoft Cognitive Services [https://github.com/KoreaEva/Python/tree/master/Cognitive%20Service](https://github.com/KoreaEva/Python/tree/master/Cognitive%20Service)
+
 ## Python Web Programming
 ### 웹 개발을 위한 환경 구성하기
 #### Cloud Service
 #### Azure Web App
 
-## Microsoft Cognitive Services 활용
-Microsoft Cognitive Services [https://github.com/KoreaEva/Python/tree/master/Cognitive%20Service](https://github.com/KoreaEva/Python/tree/master/Cognitive%20Service)
 
 Azure Web App에 대한 소개
 

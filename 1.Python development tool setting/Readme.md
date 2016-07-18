@@ -31,6 +31,21 @@ Visual Studio Code는 많은 언어들을 코딩하고 디버깅 할 수 있는 
 
 [![Python Extension 설치 영상](http://img.youtube.com/vi/w32yGHnt5Eo/0.jpg)](https://www.youtube.com/watch?v=w32yGHnt5Eo)
 
+Mac의 경우 기본적으로 Python 2.7 버전이 포함되어 있다. 때문에 3.x대의 API를 사용하면 실행시에 오류가 나는 현상이 있습니다. 이럴 경우 Visual Studio Code에서 자동으로 생성되는 launch.json 파일의 내용을 수정해야 되는데 
+아래와 같이 pythonPath를 추가해 주면 Python 3.x 버전으로 실행할 수 있습니다. 
+~~~~
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python",
+            "type": "python",
+            "request": "launch",
+            "stopOnEntry": true,
+            "program": "${file}",
+            "pythonPath": "python3",
+~~~~
+
 ## Visual Studio Community 2015 and PTVS
 Visual Studio Community 2015는 가장 강력한 개발 툴중의 하나로 조건만 만족하면 무료로 사용할 수 있습니다.
 Visual Studio Community 버전에 대한 자세한 소개는 [여기를 눌러서](https://www.visualstudio.com/ko-kr/products/visual-studio-community-vs.aspx) 확인 할 수 있다.

@@ -4,7 +4,7 @@ Microsoft의 Cognitive Service는 머신러닝 기법을 활용한 다양한 서
 
 # Sample Code 및 간단한 설명 
 Computer Vision API [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Computer_Vision.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Computer_Vision.md)<br>
-Emotion API [https://github.com/KoreaEva/Python/tree/master/Cognitive%20Service](https://github.com/KoreaEva/Python/tree/master/Cognitive%20Service) <br>
+Emotion API [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Emotion.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Emotion.md) <br>
 Face API [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Face.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Face.md) <br>
 
 

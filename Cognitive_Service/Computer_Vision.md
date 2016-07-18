@@ -2,7 +2,7 @@
 Computer Vision API - v1.0
 The Computer Vision API provides state-of-the-art algorithms to process images and return information. For example, it can be used to determine if an image contains mature content, or it can be used to find all the faces in an image. It also has other features like estimating dominant and accent colors, categorizing the content of images, and describing an image with complete English sentences. Additionally, it can also intelligently generate images thumbnails for displaying large images effectively.
 
-Analyze Image
+##Analyze Image
 This operation extracts a rich set of visual features based on the image content. Two input methods are supported -- (1) Uploading an image or (2) specifying an image URL. Within your request, there is an optional parameter to allow you to choose which features to return. By default, image categories are returned in the response. A successful response will be returned in JSON. If the request failed, the response will contain an error code and a message to help understand what went wrong.
 
 [API Key Reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
@@ -57,4 +57,64 @@ except Exception as e:
 ####################################
 ~~~~
 
+##OCR
 
+[API Key Reference](https://dev.projectoxford.ai/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fc)
+Optical Character Recognition (OCR) detects text in an image and extracts the recognized characters into a machine-usable character stream.
+Upon success, the OCR results will be returned. Upon failure, the error code together with an error message will be returned. The error code can be one of InvalidImageUrl, InvalidImageFormat, InvalidImageSize, NotSupportedImage, NotSupportedLanguage, or InternalServerError.
+
+language (optional) string The BCP-47 language code of the text to be detected in the image.The default value is "unk", then the service will auto detect the language of the text in the image.
+
+Supported languages:
+unk (AutoDetect)
+zh-Hans (ChineseSimplified)
+zh-Hant (ChineseTraditional)
+cs (Czech)
+da (Danish)
+nl (Dutch)
+en (English)
+fi (Finnish)
+fr (French)
+de (German)
+el (Greek)
+hu (Hungarian)
+it (Italian)
+Ja (Japanese)
+ko (Korean)
+nb (Norwegian)
+pl (Polish)
+pt (Portuguese,
+ru (Russian)
+es (Spanish)
+sv (Swedish)
+tr (Turkish)
+
+detectOrientation (optional) boolean Whether detect the text orientation in the image. With detectOrientation=true the OCR service tries to detect the image orientation and correct it before further processing (e.g. if it's upside-down).
+
+~~~~
+########### Python 3.2 #############
+import http.client, urllib.request, urllib.parse, urllib.error, base64
+
+headers = {
+    # Request headers
+    'Content-Type': 'application/json',
+    'Ocp-Apim-Subscription-Key': '{subscription key}',
+}
+
+params = urllib.parse.urlencode({
+    # Request parameters
+    'language': 'unk',
+    'detectOrientation ': 'true',
+})
+
+try:
+    conn = http.client.HTTPSConnection('api.projectoxford.ai')
+    conn.request("POST", "/vision/v1.0/ocr?%s" % params, "{body}", headers)
+    response = conn.getresponse()
+    data = response.read()
+    print(data)
+    conn.close()
+except Exception as e:
+    print("[Errno {0}] {1}".format(e.errno, e.strerror))
+
+####################################

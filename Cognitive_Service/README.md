@@ -6,5 +6,9 @@ Microsoft의 Cognitive Service는 머신러닝 기법을 활용한 다양한 서
 Computer Vision API [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Computer_Vision.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Computer_Vision.md)<br>
 Emotion API [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Emotion.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Emotion.md) <br>
 Face API [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Face.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/Face.md) <br>
-
-
+Spell Check [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/SpellCheck.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/SpellCheck.md)<br>
+Text Analytics [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/TextAnalytics.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/TextAnalytics.md)<br>
+Bing Search [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/BingSearch.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/BingSearch.md)<br>
+Bing Image Search [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/BingImageSearch.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/BingImageSearch.md)<br>
+Bing Video Search [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/BingVideoSearch.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/BingVideoSearch.md)<br>
+Bing News Search [https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/BingNewsSearch.md](https://github.com/KoreaEva/Python/blob/master/Cognitive_Service/BingNewsSearch.md)

@@ -59,3 +59,7 @@ http://go.microsoft.com/fwlink/?LinkID=626924&clcid=0x412
 
 ### PTVS Download
 http://microsoft.github.io/PTVS/ 
+
+### DJango + Visual Studio 활용법
+https://azure.microsoft.com/ko-kr/documentation/articles/web-sites-python-ptvs-django-mysql/
+

@@ -14,7 +14,7 @@ params = urllib.parse.urlencode({
 
 try:
     conn = http.client.HTTPSConnection('westus.api.cognitive.microsoft.com')
-    conn.request("POST", "/text/analytics/v2.0/languages?%s" % params, "{'documents': [{'id': 'test001','text': 'I Love You'}]}", headers)
+    conn.request("POST", "/text/analytics/v2.0/languages?%s" % params, "{'documents': [{'id': 'test001','text': 'I mission You'}]}", headers)
     response = conn.getresponse()
     data = response.read()
     print(data)

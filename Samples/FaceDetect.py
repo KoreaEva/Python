@@ -20,6 +20,11 @@ try:
     response = conn.getresponse()
     data = response.read()
     print(data)
+
+    f = open('c:/result.json', 'w')
+    f.write('test')
+    f.close()
+
     conn.close()
 except Exception as e:
     print("[Errno {0}] {1}".format(e.errno, e.strerror))

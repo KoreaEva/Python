@@ -3,7 +3,7 @@ import http.client, urllib.request, urllib.parse, urllib.error, base64
 headers = {
     # Request headers
     'Content-Type': 'application/json',
-    'Ocp-Apim-Subscription-Key': '02669de042544b1e8a2bdfccfbf30a4f',
+    'Ocp-Apim-Subscription-Key': '4a13d8c8170c4388932571752f455e13',
 }
 
 params = urllib.parse.urlencode({
@@ -12,9 +12,11 @@ params = urllib.parse.urlencode({
     'detectOrientation ': 'true',
 })
 
+body = "{url:'http://postfiles12.naver.net/20160811_203/warit_1470918044092RofNM_JPEG/1_XjHSP02.jpg?type=w3'}"
+
 try:
     conn = http.client.HTTPSConnection('api.projectoxford.ai')
-    conn.request("POST", "/vision/v1.0/ocr?%s" % params, "{url:'https://i-msdn.sec.s-msft.com/dynimg/IC847457.jpeg'}", headers)
+    conn.request("POST", "/vision/v1.0/ocr?%s" % params, body, headers)
     response = conn.getresponse()
     data = response.read()
     print(data)

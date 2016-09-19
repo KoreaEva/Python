@@ -16,5 +16,13 @@ Python을 지원하는 많은 툴이 있지만 여기서는 두 가지 툴을 �
 ## Microsoft Cognitive Services 활용
 Microsoft Cognitive Services [https://github.com/KoreaEva/Python/tree/master/Cognitive_Service](https://github.com/KoreaEva/Python/tree/master/Cognitive_Service)
 
+##세미나 자료
+
+20160318 Python 소개와 Visual Studio Code<br>
+[https://github.com/KoreaEva/Python/tree/master/Seminar/20160318%20Python%20%EC%86%8C%EA%B0%9C%EC%99%80%20Visual%20Studio%20Code](https://github.com/KoreaEva/Python/tree/master/Seminar/20160318%20Python%20%EC%86%8C%EA%B0%9C%EC%99%80%20Visual%20Studio%20Code)<br>
+20160813 Python으로 IoT, Cognitivie, Machine Learning 3종 셋트 활용하기<br>
+[https://github.com/KoreaEva/Python/tree/master/Seminar/20160813%20Python%EC%9C%BC%EB%A1%9C%20IoT%2C%20Cognitivie%2C%20Machine%20Learning%203%EC%A2%85%20%EC%85%8B%ED%8A%B8%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0](https://github.com/KoreaEva/Python/tree/master/Seminar/20160813%20Python%EC%9C%BC%EB%A1%9C%20IoT%2C%20Cognitivie%2C%20Machine%20Learning%203%EC%A2%85%20%EC%85%8B%ED%8A%B8%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+
 ## IoT 관련 Lab 
 IoTHub Lab [https://github.com/KoreaEva/IoT/tree/master/Labs/IoT_Hub](https://github.com/KoreaEva/IoT/tree/master/Labs/IoT_Hub)
